@@ -1,0 +1,27 @@
+.default-color0.chart-symbol {
+    -fx-background-color: blue, black;
+    -fx-background-insets: 0, 2;
+    -fx-background-radius: 2px;
+    -fx-padding: 2px;
+}
+
+.default-color1.chart-symbol {
+    -fx-background-color: red, black;
+    -fx-background-insets: 0, 2;
+    -fx-background-radius: 2px;
+    -fx-padding: 2px;
+}
+
+.default-color2.chart-symbol {
+    -fx-background-color: green, black;
+    -fx-background-insets: 0, 2;
+    -fx-background-radius: 2px;
+    -fx-padding: 2px;
+}
+
+.default-color3.chart-symbol {
+    -fx-background-color: purple, black;
+    -fx-background-insets: 0, 2;
+    -fx-background-radius: 2px;
+    -fx-padding: 2px;
+}
